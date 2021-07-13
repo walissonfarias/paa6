@@ -16,7 +16,7 @@ utilizando programac~ao dinamica.
 (f) Implemente um algoritmo para o problema de coleta de moedas (Coin-collecting problem
 (Secao 8.1)) sem utilizar programacao dinamica.
 
-(g) Implemente o algoritmo baseado em funcao de memoria (memory function) para soluc~ao
+(g) Implemente o algoritmo baseado em funcao de memoria (memory function) para solucao
 do problema da mochila (knapsack problem).
 
 2. Backtracking
@@ -30,9 +30,7 @@ coloracao de grafos com m cores.
 (d) Implemente um algoritmo baseado em backtracking que encontre um ciclo hamiltoniano
 num grafo.
 
-3. Branch and Bound
-
-Descreva a tecnica de branch and bound. Fa¸ca um comparacao com a tecnica de backtracking.
+3. Branch and Boun
 
 (b) Implemente um m´etodo que leia instˆancias da TSPLib http://comopt.ifi.uni-heidelberg.
 de/software/TSPLIB95/tsp/, em particular, a instˆancia brazil58. Quantas rotas poss´ıveis
