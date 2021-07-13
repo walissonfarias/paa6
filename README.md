@@ -1,4 +1,4 @@
-# paa6
+# Lista 06 - Exercícios de Projeto e Análise de Algoritmos
 
 1. Programacao Dinamica
 
