@@ -1,5 +1,7 @@
 # paa6
+
 1. Programacao Dinamica
+
 (b) Implemente um algoritmo para o calculo do n-esimo numero de Fibonacci sem utilizar
 programacao dinamica.
 
@@ -18,6 +20,7 @@ utilizando programac~ao dinamica.
 do problema da mochila (knapsack problem).
 
 2. Backtracking
+
 (b) Implemente um algoritmo baseado em backtracking para a a resoluc~ao do problema das
 n-rainhas.
 
@@ -28,6 +31,7 @@ coloracao de grafos com m cores.
 num grafo.
 
 3. Branch and Bound
+
 Descreva a tecnica de branch and bound. Fa¸ca um comparacao com a tecnica de backtracking.
 
 (b) Implemente um m´etodo que leia instˆancias da TSPLib http://comopt.ifi.uni-heidelberg.
